@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IfElseInserter/InsertIfElseHandler.cs">
+    <Files>
+      <File FileName="IfElseInserter/Properties/Manifest.addin.xml" Line="16" Column="2" />
+      <File FileName="../DateInserter/DateInserter/Properties/AddinInfo.cs" Line="18" Column="1" />
+      <File FileName="IfElseInserter/Properties/AddinInfo.cs" Line="1" Column="1" />
+      <File FileName="IfElseInserter/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="../DateInserter/DateInserter/Properties/Manifest.addin.xml" Line="3" Column="2" />
+      <File FileName="IfElseInserter/IfElseInserterCommands.cs" Line="7" Column="16" />
+      <File FileName="../DateInserter/DateInserter/DateInserterCommands.cs" Line="5" Column="3" />
+      <File FileName="../DateInserter/DateInserter/InsertDateHandler.cs" Line="8" Column="2" />
+      <File FileName="IfElseInserter/InsertIfElseHandler.cs" Line="28" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

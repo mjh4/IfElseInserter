@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionModel>
+	
+	<Extension path = "/MonoDevelop/Ide/Commands/Edit">
+    	<Command id = "IfElseInserter.IfElseInserterCommands.InsertIfElse"
+             _label = "Insert IfElse"
+             _description = "Insert an If/Else Block" 
+             defaultHandler = "IfElseInserter.InsertIfElseHandler" />
+	</Extension>
+    
+    <Extension path = "/MonoDevelop/Ide/MainMenu/Edit">
+    	<CommandItem id="IfElseInserter.IfElseInserterCommands.InsertIfElse" />
+	</Extension>
+
+</ExtensionModel>
